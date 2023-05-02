@@ -9,3 +9,9 @@ This repository contains three types of test suite:
 *  contextless syntactic ambiguity
 
 *  contextual syntactic ambiguity
+
+#### Data License
+
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. 
+(License URL: https://creativecommons.org/licenses/by-sa/4.0/)
+
